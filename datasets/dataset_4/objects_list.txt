@@ -1,0 +1,3 @@
+objects/calculator.txt
+objects/ducktape.txt
+objects/airwaves.txt

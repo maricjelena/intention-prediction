@@ -1,0 +1,4 @@
+objects/calculator.txt
+objects/ducktape.txt
+objects/screwdriver.txt
+objects/airwaves.txt

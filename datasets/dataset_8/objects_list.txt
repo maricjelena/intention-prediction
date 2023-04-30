@@ -1,0 +1,3 @@
+objects/airwaves.txt
+objects/screwdriver.txt
+objects/calculator.txt
