@@ -1,3 +1,0 @@
-objects/airwaves.txt
-objects/middle_object.txt
-objects/calculator.txt

@@ -1,2 +1,0 @@
-objects/airwaves.txt
-objects/screwdriver.txt
